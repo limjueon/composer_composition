@@ -8,16 +8,10 @@ Itlian composer
 
 | Year      | Works                                  | YouTube                                     |
 | --------- | -------------------------------------- | ------------------------------------------- |
-| 1659      | Lagrime mie Op.7                       |.[Listen]_
-(https://youtu.be/w2lBnocuMC0?feature=shared) |
-| 1644      | Che si può fare Op.8                   | .[Listen]_
-(https://youtu.be/1F458aC_FUM?feature=shared) |
-| 1644      | II primo Libro de'Madriga1i, Op.1      |.[Listen]_
-(https://youtu.be/ETxIcs-xQnw?feature=shared) |
-| 1655      | O Maria (Sacri Musicali Affetti, Op.5) |.[Listen]_
-(https://youtu.be/BWZoYpDLDX0?feature=shared) |
-| 1659      | Diporti di Euterpe Op.7                |.[Listen]_
-(https://youtube.com/playlist?list=PLj_QQHFdirsKZ-Zs-Ln9SLs_gNHqojaT5&feature=shared)|
-| 1651~1655 | Cantate, ariette e duetti              |.[Listen]_
-(https://youtu.be/jJKMng1jkY8?feature=shared) |
+| 1659      | Lagrime mie Op.7                       | [Listen](https://youtu.be/w2lBnocuMC0?feature=shared) |
+| 1644      | Che si può fare Op.8                   |.[Listen](https://youtu.be/1F458aC_FUM?feature=shared) |
+| 1644      | II primo Libro de'Madriga1i, Op.1      |.[Listen](https://youtu.be/ETxIcs-xQnw?feature=shared) |
+| 1655      | O Maria (Sacri Musicali Affetti, Op.5) |.[Listen](https://youtu.be/BWZoYpDLDX0?feature=shared) |
+| 1659      | Diporti di Euterpe Op.7                |.[Listen](https://youtube.com/playlist?list=PLj_QQHFdirsKZ-Zs-Ln9SLs_gNHqojaT5&feature=shared)|
+| 1651~1655 | Cantate, ariette e duetti              |.[Listen](https://youtu.be/jJKMng1jkY8?feature=shared) |
 
